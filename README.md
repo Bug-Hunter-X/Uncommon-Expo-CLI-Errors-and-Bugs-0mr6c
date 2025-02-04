@@ -1,0 +1,1 @@
+This repository demonstrates some uncommon errors encountered when using the Expo CLI with React Native projects.  The `expoBug.js` file showcases problematic code, and `expoBugSolution.js` presents solutions and best practices to mitigate these errors.  Issues range from configuration file discrepancies to dependency conflicts and interactions with Expo Go.
